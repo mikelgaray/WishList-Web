@@ -18,7 +18,7 @@ This app lets users create and manage their personal video game wish lists. You 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/wishlist-app.git
+git clone https://github.com/mikelgaray/WishList-Web.git
 ```
 
 ## Author
