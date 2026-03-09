@@ -1,6 +1,6 @@
 # WishList-Web
 
-A simple wish list application web where you can add, manage and keep track of the games you want.
+A simple wish list application web where you can add to a list, manage the lists and keep track of the games you want.
 
 ## What it does
 
