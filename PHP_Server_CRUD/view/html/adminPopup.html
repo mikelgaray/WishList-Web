@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
+  </head>
+  <body>
+    <h2>Modal Example</h2>
+
+    <!-- Trigger/Open The Modal -->
+    <button id="myBtn">Open Modal</button>
+
+    <!-- The Modal -->
+    <div id="adminTableModal" class="adminTableModal">
+      <!-- Modal content -->
+      <div class="adminTableModalContent">
+        <div class="flex-space-between">
+          <button class="modifySelfButton">Modify Self</button>
+          <span class="close">&times;</span>
+        </div>
+
+        <table class="adminTable" id="adminTable">
+          <tr class="adminTableHead">
+            <th>Username</th>
+            <th>Card Number</th>
+            <th></th>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <script src="../assets/js/adminPopup.js"></script>
+  </body>
+</html>
